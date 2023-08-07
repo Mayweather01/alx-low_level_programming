@@ -4,7 +4,7 @@
 /*
  * File: holberton.h
  * Auth: Godwin Agbo
- * DESC: Header file containning prototypes for all functions
+ * DESC: Header file containing prototypes for all functions
  * 	written in the 0x14-file_io directory.
  */
 
