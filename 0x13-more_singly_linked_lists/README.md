@@ -18,7 +18,7 @@
 
 ## File 9-insert_nodeint.c is a function that inserts a new node at a given position.
 
-##File 10-delete_nodeint.c is a function that deletes the node at index index of a listint_t linked list.
+## File 10-delete_nodeint.c is a function that deletes the node at index index of a listint_t linked list.
 
 ## File 100-reverse_listint.c is a function that reverses a linked list.
 
